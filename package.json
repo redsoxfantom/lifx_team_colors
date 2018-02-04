@@ -1,0 +1,16 @@
+{
+  "name": "lifx_game_colors",
+  "version": "1.0.0",
+  "description": "Set your LIFX bulb's colors according to who is winning a game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argparse": "^1.0.9",
+    "chalk": "^2.3.0",
+    "ya-lifx": "^2.1.0"
+  }
+}
